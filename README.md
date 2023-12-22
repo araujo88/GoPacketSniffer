@@ -25,7 +25,7 @@ Before you can run the packet sniffer, you need to have the following installed:
    ```
 2. Navigate to the cloned repository:
    ```bash
-   cd go-packet-sniffer
+   cd GoPacketSniffer
    ```
 
 ## Usage
